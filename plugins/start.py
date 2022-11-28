@@ -90,7 +90,7 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('🤖𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Autofilter_vipBot'),
+                InlineKeyboardButton('🤖 𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Autofilter_vipBot'),
                 InlineKeyboardButton('🔈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/bots_supported')
                 ],[
                 InlineKeyboardButton('📣 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
@@ -103,7 +103,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/AdhavaaBiriyaniKittiyalo")
+               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -116,7 +116,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/AdhavaaBiriyaniKittiyalo")
+               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
               ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -128,7 +128,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://t.me/AdhavaaBiriyaniKittiyalo")
+               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
