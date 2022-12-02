@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
         ],[
-        InlineKeyboardButton('🤖𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Autofilter_vipBot'),
-        InlineKeyboardButton('🔈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/bots_supported')
+        InlineKeyboardButton('🤖𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Prv_35Bot'),
+        InlineKeyboardButton('🔈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Prv_35')
         ],[
         InlineKeyboardButton('📣 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('🌈 𝙷𝙴𝙻𝙿', callback_data='help')
