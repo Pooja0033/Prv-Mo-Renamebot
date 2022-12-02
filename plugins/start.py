@@ -116,7 +116,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
+               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/kmtz_channel_v3")
               ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -128,7 +128,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
+               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/kmtz_channel_v3")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
