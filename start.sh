@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/MyBotzz/PYRO-RENAME-BOT.git /RENAMERBOT
+  git clone https://github.com/Pooja0033/Prv-Mo-Renamebot.git /Prv-Mo-Renamebot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /RENAMERRBOT
+  git clone $UPSTREAM_REPO /Prv-Mo-Renamebot
 fi
-cd /RENAMERBOT
+cd /Prv-Mo-Renamebot
 pip3 install -U -r requirements.txt
 echo "Starting ...."
 python3 bot.py
