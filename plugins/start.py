@@ -90,8 +90,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('🤖 𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Autofilter_vipBot'),
-                InlineKeyboardButton('🔈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/bots_supported')
+                InlineKeyboardButton('🤖 𝙰𝚞𝚝𝚘𝚏𝚒𝚕𝚝𝚎𝚛𝚋𝚘𝚝', url='https://t.me/Prv_35Bot'),
+                InlineKeyboardButton('🔈 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Prv_35')
                 ],[
                 InlineKeyboardButton('📣 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
                 InlineKeyboardButton('🌈 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -103,7 +103,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("📡 𝚂𝚎𝚛𝚟𝚎𝚛", url="https://t.me/quickfastt")
+               InlineKeyboardButton("📡 update", url="https://t.me/kmtz_channel_v3")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
